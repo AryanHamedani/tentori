@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aryan Hamedani
-- 👀 I’m interested in Front-End Website development, JavaScript & Python Programming
-- 🌱 I’m currently learning Python, & Libraries of JavaScript
+- 👀 I’m interested in Back-End Website development, Django & Python Programming
+- 🌱 I’m currently learning Django, & SQL basic's
 - 📫 Mail me! aryn.hmd@gmail.com
 
 <!---
